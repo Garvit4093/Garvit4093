@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Garvit Gupta</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 Project 1: [Text-Utils](https://garvit4093.github.io/text-utils/)
+
+- 🔭 Project 1: [Text Utils](https://garvit4093.github.io/text-utils/)
 
 - 🔭 Project 2: [News Master](https://github.com/Garvit4093/news-master)
                 

@@ -1,12 +1,12 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Garvit Gupta</h1>
 <h3 align="center">A passionate web developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
-- 🔭 Projects: Minor: [Text-Utils](https://garvit4093.github.io/text-utils/)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+- 🔭 Project 1: [Text-Utils](https://garvit4093.github.io/text-utils/)
 
-               Major: [News Master](https://github.com/Garvit4093/news-master)
+- 🔭 Project 2: [News Master](https://github.com/Garvit4093/news-master)
                 
-                      [Cloud Notebook](https://github.com/Garvit4093/inotebook)
+- 🔭 Project 3: [Cloud Notebook](https://github.com/Garvit4093/inotebook)
 
 - 🌱 I’m currently learning **AIML**
 

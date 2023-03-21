@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **MERN,Python,C++,PHP,MONGO,MYSQL,WEBDEV**
 
-- 📫 How to reach me **garvit7118@gmail.com**
+- 📫 Reach me at **garvit7118@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

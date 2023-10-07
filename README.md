@@ -17,11 +17,7 @@
 
 - 📫 Reach me at **garvit7118@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/garvit_gupta7118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="garvit_gupta7118" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/garvit7118" target="blank"></a>
-</p>
+
 
 #### GitHub Stats:
 

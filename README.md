@@ -19,20 +19,7 @@
 
 
 
-#### GitHub Stats:
 
-<br/>
-<div align="center">
-
-
-![github stats](https://github-readme-stats.vercel.app/api?username=garvit4093&show_icons=true&theme=github_dark&count_private=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garvit4093&layout=compact&theme=github_dark&langs_count=8)
-![streak](https://streak-stats.demolab.com/?user=garvit4093&theme=github-dark)
-<br />
-
-</div>
-<details>
-  <Summary>
 
 #### Languages :
 
